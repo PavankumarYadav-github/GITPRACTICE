@@ -2,6 +2,8 @@
 
 git --version (to check version)
 
+git init (for initialize)
+
 git add <file name> (for single file)
 git add . (for multiple file)
 
